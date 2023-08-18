@@ -1,7 +1,7 @@
 # Eligibility-for-Admission
 
 ## Aim:
-To write C# program to find the eligibility for admission to an engineering course
+### To write C# program to find the eligibility for admission to an engineering course
 
 ## Algorithnm:
 ### Start the program and declare the variables required.
@@ -57,7 +57,8 @@ namespace EngineeringAdmission
 ```
 
 ## Output:
-
-
+![eligibility](https://github.com/Leann4468/Eligibility-for-Admission/assets/121165979/03d00066-9a15-4ac2-a400-d7b72d2aa15b)
 
 ## Result:
+### Thus a C# program to find the eligibility for admission to an engineering course is written and executed.
+
